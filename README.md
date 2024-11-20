@@ -22,5 +22,5 @@
 ## To Dos
 
 - Find other materials for the best way to optimize the sorting 
-- Design the homework 
+- Design the homework, add concrete instructions and code for data download and installation.
 - Guidelines for the infrastructures needed (e.g., the cluster account set up, the IDE and python installations, job submissions)
