@@ -15,8 +15,8 @@
 ## Homework
 
 - Sort the temperatures in 1brc by insert, merge, and choose their own. Use only python no external packages
-- Use external packages like [here](https://www.linkedin.com/pulse/from-minutes-seconds-supercharging-python-billion-row-krishan-gupta-2icfe/) to optimize the algorithms
-- Use [viztracer](https://github.com/gaogaotiantian/viztracer) to see how different iterations of codes are improved; Maybe also Cython?
+- Use external packages like [here](https://www.linkedin.com/pulse/from-minutes-seconds-supercharging-python-billion-row-krishan-gupta-2icfe/) to optimize the algorithms; Also try **pypy3**
+- Use [viztracer](https://github.com/gaogaotiantian/viztracer) to see how different iterations of codes are improved; 
 - Encourage them to use FAS-RC to do the homework
 
 ## To Dos
