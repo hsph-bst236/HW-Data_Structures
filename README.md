@@ -21,5 +21,6 @@
 
 ## To Dos
 
--[ ] Specify the detailed instructions for the homework (format the output of the code so we can check the correctness and rank the performance automatically)
--[ ] For visualization, do we have better reference? I want them to make a R.shiny like interactive website with map visualization
+- [ ] Specify the detailed instructions for the homework (format the output of the code so we can check the correctness and rank the performance automatically)
+
+- [ ] For visualization, do we have better reference? I want them to make a R.shiny like interactive website with map visualization
