@@ -2,6 +2,7 @@
 
 ## Objectives
 
+- Python data structures operations
 - How to optimize python data processing
 - How to optimize R data processing
 - How to use AI to visualize the data
