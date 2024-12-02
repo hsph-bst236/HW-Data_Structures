@@ -17,7 +17,7 @@
 ### Problem 1
 
 - [3Sum](https://leetcode.com/problems/3sum/)
-- [Binary subarrays with sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
+- [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs/))
   
 ### Problem 2
 
