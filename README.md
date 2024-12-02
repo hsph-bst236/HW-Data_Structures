@@ -14,6 +14,13 @@
 
 ## Homework
 
+### Problem 1
+
+- [3Sum](https://leetcode.com/problems/3sum/)
+- [Binary subarrays with sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
+  
+### Problem 2
+
 - Follow the instructions in [1brc](https://github.com/ifnesi/1brc#submitting) to create the data 
 - Write Python code to print out the 25th,50th, 75th quantile of temperature per station, alphabetically ordered. (And try to make the processing fast)
 - Write R code to print out the min, max, mean of temperature per station, alphabetically ordered. 
