@@ -18,6 +18,7 @@
 
 - [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [3Sum](https://leetcode.com/problems/3sum/)
+- [Fill missing data](https://leetcode.com/problems/fill-missing-data/)
 
   
 ### Problem 2
