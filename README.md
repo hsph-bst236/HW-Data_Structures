@@ -2,9 +2,9 @@
 
 ## Objectives
 
-- Implement three sorting algorithms
-- How to optimize the python
-- How to censor python learning time
+- How to optimize python data processing
+- How to optimize R data processing
+- How to use AI to visualize the data
 
 ## Resources
 
@@ -14,13 +14,12 @@
 
 ## Homework
 
-- Sort the temperatures in 1brc by insert, merge, and choose their own. Use only python no external packages
-- Use external packages like [here](https://www.linkedin.com/pulse/from-minutes-seconds-supercharging-python-billion-row-krishan-gupta-2icfe/) to optimize the algorithms; Also try **pypy3**
-- Use [viztracer](https://github.com/gaogaotiantian/viztracer) to see how different iterations of codes are improved; 
-- Encourage them to use FAS-RC to do the homework
+- Follow the instructions in [1brc](https://github.com/ifnesi/1brc#submitting) to create the data 
+- Write Python code to print out the 25th,50th, 75th quantile of temperature per station, alphabetically ordered. (And try to make the processing fast)
+- Write R code to print out the min, max, mean of temperature per station, alphabetically ordered. 
+- With the help of AI, visualize the data in html. You have the flexibility to decide what to illustrate. You can refer to  [GWAS diverse monitor](https://gwasdiversitymonitor.com/)
 
 ## To Dos
 
-- Find other materials for the best way to optimize the sorting 
-- Design the homework, add concrete instructions and code for data download and installation.
-- Guidelines for the infrastructures needed (e.g., the cluster account set up, the IDE and python installations, job submissions)
+-[ ] Specify the detailed instructions for the homework (format the output of the code so we can check the correctness and rank the performance automatically)
+-[ ] For visualization, do we have better reference? I want them to make a R.shiny like interactive website with map visualization
