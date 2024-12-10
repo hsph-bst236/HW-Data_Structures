@@ -26,7 +26,8 @@
 
 - Follow the instructions in [1brc](https://github.com/ifnesi/1brc#submitting) to create the data 
 - Write Python code to print out the 25th,50th, 75th quantile of temperature per station, alphabetically ordered. (And try to make the processing fast)
-- Write R code to print out the min, max, mean of temperature per station, alphabetically ordered. 
+- Write R code to print out the min, max, mean of temperature per station, alphabetically ordered.
+- Measure the time of the R and python code and analyze the bottleneck.
 - With the help of AI, visualize the data in html. You have the flexibility to decide what to illustrate. You can refer to  [GWAS diverse monitor](https://gwasdiversitymonitor.com/)
 
 ## To Dos
