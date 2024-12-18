@@ -2,10 +2,9 @@
 
 ## Objectives
 
-- Python data structures operations
-- How to optimize python data processing
-- How to optimize R data processing
-- How to use AI to visualize the data
+- Learn commonly used R and Python data structures.
+- Gain practice using these data structures to process large datasets.
+- Learn how to visualize and share the results.
 
 ## Resources
 
@@ -17,6 +16,8 @@
 
 ### Problem 1
 
+Complete the following problems on leetcode. You should submit proof that your solution is correct in the form of a screenshot.
+
 - [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [3Sum](https://leetcode.com/problems/3sum/)
 - [Fill missing data](https://leetcode.com/problems/fill-missing-data/)
@@ -24,14 +25,8 @@
   
 ### Problem 2
 
-- Follow the instructions in [1brc](https://github.com/ifnesi/1brc#submitting) to create the data 
-- Write Python code to print out the 25th,50th, 75th quantile of temperature per station, alphabetically ordered. (And try to make the processing fast)
+- Run `python3 -m pip install -r requirements.txt` and then `python3 createMeasurements.py` to create the data. See [1brc](https://github.com/ifnesi/1brc#submitting) for additional options. Note that the data contains the city name and a temperature measurement.
+- Write Python code to print out the mean and standard deviation of the temperature measurements per station, alphabetically ordered. (And try to make the processing as fast as possible)
 - Write R code to print out the min, max, mean of temperature per station, alphabetically ordered.
 - Measure the time of the R and python code and analyze the bottleneck.
-- With the help of AI, visualize the data in html. You have the flexibility to decide what to illustrate. You can refer to  [GWAS diverse monitor](https://gwasdiversitymonitor.com/)
-
-## To Dos
-
-- [ ] Specify the detailed instructions for the homework (format the output of the code so we can check the correctness and rank the performance automatically)
-
-- [ ] For visualization, do we have better reference? I want them to make a R.shiny like interactive website with map visualization
+- Create an interactive website to visualize the data. Some ideas include an R shiny interactive map displaying the location of the stations and their temperatures. See [this example](https://github.com/phillipnicol/shinyapp_demo) that was created by following [this tutorial](https://hbctraining.github.io/Training-modules/RShiny/lessons/shinylive.html). A more detailed example is [GWAS diverse monitor](https://gwasdiversitymonitor.com/). We strongly recommend using generative to AI to help design the visualization. 
