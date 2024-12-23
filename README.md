@@ -26,7 +26,7 @@ Complete the following problems on leetcode. You should submit proof that your s
 ### Problem 2
 
 - Run `python3 -m pip install -r requirements.txt` and then `python3 createMeasurements.py` to create the data. See [1brc](https://github.com/ifnesi/1brc#submitting) for additional options. Note that the data contains the city name and a temperature measurement.
-- Write Python code to print out the mean and standard deviation of the temperature measurements per station, alphabetically ordered. (And try to make the processing as fast as possible)
+- Write Python code to print out the 25th, 50th, and 75th percentile of the temperature measurements per station, alphabetically ordered. (And try to make the processing as fast as possible)
 - Write R code to print out the min, max, mean of temperature per station, alphabetically ordered.
 - Measure the time of the R and python code and analyze the bottleneck.
 - Create an interactive website to visualize the data. Some ideas include an R shiny interactive map displaying the location of the stations and their temperatures. See [this example](https://github.com/phillipnicol/shinyapp_demo) that was created by following [this tutorial](https://hbctraining.github.io/Training-modules/RShiny/lessons/shinylive.html). A more detailed example is [GWAS diverse monitor](https://gwasdiversitymonitor.com/). We strongly recommend using generative AI to help design the visualization. 
