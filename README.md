@@ -16,7 +16,7 @@
 
 ### Problem 1
 
-Complete the following problems on leetcode. You should also follow the general [homework submission guidelines](https://junwei-lu.github.io/bst236/chapter_syllabus/syllabus/#homework-submission-guidelines) to add you code and ReadMe.md. You should also add in ReadMe.md the proof that your solution is correct in the form of a screenshot of the leetcode.
+Complete the following problems on leetcode. You should follow the general [homework submission guidelines](https://junwei-lu.github.io/bst236/chapter_syllabus/syllabus/#homework-submission-guidelines) to add you code and ReadMe.md in the homework repository. You should also add in ReadMe.md the proof that your solution is correct in the form of a screenshot of the leetcode.
 
 - [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [3Sum](https://leetcode.com/problems/3sum/)
